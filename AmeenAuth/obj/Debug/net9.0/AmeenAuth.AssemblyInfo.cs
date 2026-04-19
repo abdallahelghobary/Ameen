@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AmeenAuth")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+12b8104e4d665bdc3ae9fd90ead86cae0bc74c6f")]
 [assembly: System.Reflection.AssemblyProductAttribute("AmeenAuth")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AmeenAuth")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
