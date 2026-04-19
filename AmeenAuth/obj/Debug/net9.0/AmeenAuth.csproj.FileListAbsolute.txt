@@ -18,7 +18,6 @@ c:\Users\abdua\Desktop\Amin\AmeenAuth\obj\Debug\net9.0\AmeenAuth.sourcelink.json
 c:\Users\abdua\Desktop\Amin\AmeenAuth\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 c:\Users\abdua\Desktop\Amin\AmeenAuth\obj\Debug\net9.0\scopedcss\bundle\AmeenAuth.styles.css
 c:\Users\abdua\Desktop\Amin\AmeenAuth\obj\Debug\net9.0\scopedcss\projectbundle\AmeenAuth.bundle.scp.css
-c:\Users\abdua\Desktop\Amin\AmeenAuth\obj\Debug\net9.0\compressed\huur4n0ngk-1ke18cnp4l.gz
 c:\Users\abdua\Desktop\Amin\AmeenAuth\obj\Debug\net9.0\compressed\5xey1nxxqe-b9sayid5wm.gz
 c:\Users\abdua\Desktop\Amin\AmeenAuth\obj\Debug\net9.0\compressed\jq3xx0zt26-61n19gt1b8.gz
 c:\Users\abdua\Desktop\Amin\AmeenAuth\obj\Debug\net9.0\compressed\axhdww24m1-xtxxf3hu2r.gz
@@ -97,3 +96,4 @@ c:\Users\abdua\Desktop\Amin\AmeenAuth\obj\Debug\net9.0\refint\AmeenAuth.dll
 c:\Users\abdua\Desktop\Amin\AmeenAuth\obj\Debug\net9.0\AmeenAuth.pdb
 c:\Users\abdua\Desktop\Amin\AmeenAuth\obj\Debug\net9.0\AmeenAuth.genruntimeconfig.cache
 c:\Users\abdua\Desktop\Amin\AmeenAuth\obj\Debug\net9.0\ref\AmeenAuth.dll
+c:\Users\abdua\Desktop\Amin\AmeenAuth\obj\Debug\net9.0\compressed\huur4n0ngk-hzcursavkc.gz
