@@ -1,24 +1,25 @@
-/* Ameen dark login — matches branded UI: black panel, magenta accents, pill CTA */
+/* Ameen login — matches mockup: #000 canvas, grey frame, light grey labels, burgundy→magenta CTA */
 
 :root {
-    --auth-outer: #141414;
-    --auth-panel: #000000;
-    --auth-border: rgba(255, 255, 255, 0.14);
-    --auth-input-bg: #1a1a1a;
-    --auth-input-border: rgba(216, 27, 96, 0.35);
+    --auth-canvas: #000000;
+    --auth-frame-border: #2d2d2d;
+    --auth-input-bg: #0f0f0f;
+    --auth-input-border: #333333;
     --auth-text: #ffffff;
-    --auth-muted: #b0b0b0;
-    --auth-magenta-a: #8b004b;
-    --auth-magenta-b: #e0115f;
-    --auth-glow: rgba(224, 17, 95, 0.45);
+    --auth-label: #b3b3b3;
+    --auth-muted: #9a9a9a;
+    --auth-magenta-a: #800040;
+    --auth-magenta-b: #c01050;
+    --auth-magenta-link: #e0116f;
+    --auth-glow: rgba(192, 16, 80, 0.42);
 }
 
 .auth-body {
     margin: 0;
     min-height: 100vh;
-    background: var(--auth-outer);
+    background: var(--auth-canvas);
     color: var(--auth-text);
-    font-family: "Segoe UI", system-ui, -apple-system, Inter, Roboto, "Helvetica Neue", sans-serif;
+    font-family: "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", sans-serif;
 }
 
 .auth-main {
@@ -26,26 +27,25 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    padding: 1.5rem;
+    padding: 1.75rem;
 }
 
+/* Thin dark-grey frame around the whole panel (mockup) */
 .auth-card {
     width: 100%;
-    max-width: 420px;
-    padding: 2.5rem 2rem 2rem;
-    background: var(--auth-panel);
-    border: 1px solid var(--auth-border);
-    border-radius: 14px;
-    box-shadow:
-        0 0 0 1px rgba(0, 0, 0, 0.4),
-        0 24px 64px rgba(0, 0, 0, 0.65);
+    max-width: 440px;
+    padding: 2.85rem 2.6rem 2.6rem;
+    background: var(--auth-canvas);
+    border: 1px solid var(--auth-frame-border);
+    border-radius: 10px;
+    box-sizing: border-box;
     animation: auth-in 0.45s ease-out;
 }
 
 @keyframes auth-in {
     from {
         opacity: 0;
-        transform: translateY(10px);
+        transform: translateY(8px);
     }
     to {
         opacity: 1;
@@ -55,11 +55,11 @@
 
 .auth-brand {
     text-align: center;
-    margin-bottom: 2rem;
+    margin-bottom: 2.35rem;
 }
 
 .auth-logo {
-    margin: 0 auto 0.85rem;
+    margin: 0 auto 1rem;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -67,45 +67,54 @@
 
 .auth-logo img {
     display: block;
-    width: 96px;
+    width: 88px;
     height: auto;
-    max-width: min(96px, 28vw);
+    max-width: min(88px, 26vw);
     object-fit: contain;
-    /* Keeps the magenta lotus + green accent visible on black */
-    filter: drop-shadow(0 0 22px rgba(224, 17, 95, 0.35));
+    filter: drop-shadow(0 0 20px rgba(192, 16, 80, 0.32));
 }
 
 .auth-title {
     margin: 0;
-    font-size: 1.75rem;
+    font-size: 1.625rem;
     font-weight: 700;
-    letter-spacing: 0.02em;
+    letter-spacing: 0.01em;
     color: var(--auth-text);
 }
 
+/* Mockup: small light-grey labels above fields */
 .auth-label {
     font-size: 0.8125rem;
-    font-weight: 500;
-    color: var(--auth-text);
-    margin-bottom: 0.35rem;
+    font-weight: 400;
+    color: var(--auth-label);
+    margin-bottom: 0.4rem;
+}
+
+.auth-field-gap {
+    margin-bottom: 1.35rem;
+}
+
+.auth-field-gap-tight {
+    margin-bottom: 0.65rem;
 }
 
 .auth-input {
     background-color: var(--auth-input-bg) !important;
     border: 1px solid var(--auth-input-border) !important;
     color: var(--auth-text) !important;
-    border-radius: 8px !important;
-    padding: 0.65rem 0.85rem !important;
+    border-radius: 7px !important;
+    padding: 0.68rem 0.9rem !important;
+    font-size: 0.9375rem;
     transition: border-color 0.2s ease, box-shadow 0.2s ease;
 }
 
 .auth-input::placeholder {
-    color: #666;
+    color: #5c5c5c;
 }
 
 .auth-input:focus {
-    border-color: var(--auth-magenta-b) !important;
-    box-shadow: 0 0 0 0.2rem rgba(224, 17, 95, 0.2) !important;
+    border-color: rgba(192, 16, 80, 0.65) !important;
+    box-shadow: 0 0 0 0.15rem rgba(192, 16, 80, 0.18) !important;
     color: var(--auth-text) !important;
 }
 
@@ -129,13 +138,14 @@
 
 .auth-toggle-pw:hover,
 .auth-toggle-pw:focus-visible {
-    color: var(--auth-text);
-    background: rgba(255, 255, 255, 0.06);
+    color: #d0d0d0;
+    background: rgba(255, 255, 255, 0.05);
     outline: none;
 }
 
 .auth-forgot {
-    font-size: 0.875rem;
+    font-size: 0.8125rem;
+    margin-bottom: 1.75rem;
 }
 
 .auth-forgot a {
@@ -144,50 +154,32 @@
 }
 
 .auth-forgot a:hover {
-    color: var(--auth-text);
+    color: #cfcfcf;
 }
 
-/* Remember me — dark checkbox */
-.auth-check {
-    color: var(--auth-muted);
-}
-
-.auth-check .form-check-input {
-    border-radius: 4px;
-    border-color: rgba(255, 255, 255, 0.25);
-    background-color: var(--auth-input-bg);
-}
-
-.auth-check .form-check-input:checked {
-    background-color: var(--auth-magenta-b);
-    border-color: var(--auth-magenta-b);
-}
-
-.auth-check .form-check-input:focus {
-    box-shadow: 0 0 0 0.2rem rgba(224, 17, 95, 0.25);
-}
-
+/* Pill button + soft magenta glow */
 .btn-auth-login {
     width: 100%;
     border: none;
     border-radius: 999px;
-    padding: 0.75rem 1rem;
+    padding: 0.78rem 1rem;
     font-weight: 600;
     font-size: 1rem;
+    letter-spacing: 0.02em;
     color: #fff !important;
     background: linear-gradient(90deg, var(--auth-magenta-a) 0%, var(--auth-magenta-b) 100%);
     box-shadow:
-        0 6px 24px var(--auth-glow),
-        0 2px 8px rgba(0, 0, 0, 0.35);
+        0 6px 28px var(--auth-glow),
+        0 2px 6px rgba(0, 0, 0, 0.45);
     transition: filter 0.15s ease, transform 0.15s ease, box-shadow 0.15s ease;
 }
 
 .btn-auth-login:hover {
-    filter: brightness(1.08);
+    filter: brightness(1.06);
     transform: translateY(-1px);
     box-shadow:
-        0 10px 32px rgba(224, 17, 95, 0.5),
-        0 2px 8px rgba(0, 0, 0, 0.35);
+        0 10px 34px rgba(192, 16, 80, 0.55),
+        0 2px 6px rgba(0, 0, 0, 0.45);
 }
 
 .btn-auth-login:active {
@@ -201,13 +193,14 @@
 
 .auth-footer {
     text-align: center;
-    margin-top: 1.75rem;
+    margin-top: 2rem;
     font-size: 0.9375rem;
+    line-height: 1.5;
     color: var(--auth-muted);
 }
 
 .auth-footer a {
-    color: var(--auth-magenta-b);
+    color: var(--auth-magenta-link);
     font-weight: 600;
     text-decoration: none;
 }
@@ -216,17 +209,15 @@
     text-decoration: underline;
 }
 
-/* Errors readable on dark */
 .auth-validation-summary {
     font-size: 0.875rem;
 }
 
 .text-danger.small-validation,
 .auth-validation-summary.text-danger {
-    color: #ff8a80 !important;
+    color: #ff9e8c !important;
 }
 
-/* Access denied & secondary actions */
 .auth-muted-text {
     color: var(--auth-muted);
 }

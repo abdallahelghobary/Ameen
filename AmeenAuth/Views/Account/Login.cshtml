@@ -6,7 +6,7 @@
 <div class="auth-card">
     <header class="auth-brand">
         <div class="auth-logo">
-            <img src="~/images/ameen-logo.png" asp-append-version="true" width="96" height="96" alt="Ameen logo" />
+            <img src="~/images/ameen-logo.png" asp-append-version="true" width="88" height="88" alt="Ameen logo" />
         </div>
         <h1 class="auth-title">Ameen</h1>
     </header>
@@ -16,13 +16,13 @@
 
         <div asp-validation-summary="ModelOnly" class="text-danger small-validation auth-validation-summary mb-3" role="alert"></div>
 
-        <div class="mb-3">
+        <div class="auth-field-gap">
             <label asp-for="Email" class="form-label auth-label"></label>
             <input asp-for="Email" class="form-control auth-input" autocomplete="username" autofocus />
             <span asp-validation-for="Email" class="text-danger small-validation"></span>
         </div>
 
-        <div class="mb-2">
+        <div class="auth-field-gap-tight">
             <label asp-for="Password" class="form-label auth-label"></label>
             <div class="auth-password-wrap">
                 <input asp-for="Password" id="Password" class="form-control auth-input pe-5" autocomplete="current-password" />
@@ -37,20 +37,15 @@
             <span asp-validation-for="Password" class="text-danger small-validation"></span>
         </div>
 
-        <div class="d-flex justify-content-end auth-forgot mb-3">
-            <a href="#">Forgot password?</a>
-        </div>
-
-        <div class="form-check mb-4 auth-check">
-            <input asp-for="RememberMe" class="form-check-input" />
-            <label asp-for="RememberMe" class="form-check-label"></label>
+        <div class="d-flex justify-content-end auth-forgot">
+            <a href="#">Forgot Password?</a>
         </div>
 
         <button type="submit" class="btn btn-auth-login">Login</button>
     </form>
 
     <p class="auth-footer mb-0">
-        No account? <a href="#">Sign up</a>
+        No account? <a href="#">Sign Up</a>
     </p>
 </div>
 

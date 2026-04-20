@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Ameen Platform</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/dashboard.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/AmeenAuth.styles.css" asp-append-version="true" />
+</head>
+<body class="dashboard-body">
+    <div class="dashboard-container">
+        <!-- Sidebar -->
+        <aside class="sidebar">
+            <div class="sidebar-brand">
+                <img src="~/images/ameen-logo.png" alt="Ameen" class="logo-img" />
+                <span>Ameen</span>
+            </div>
+            <nav class="sidebar-nav">
+                <a href="#" class="nav-item active">
+                    <i class="icon">📊</i>
+                    <span>Dashboard</span>
+                </a>
+                <a href="#" class="nav-item">
+                    <i class="icon">📁</i>
+                    <span>Data Sources</span>
+                </a>
+                <a href="#" class="nav-item">
+                    <i class="icon">🔄</i>
+                    <span>Pipelines</span>
+                </a>
+                <a href="#" class="nav-item">
+                    <i class="icon">✨</i>
+                    <span>AI Insights</span>
+                </a>
+                <a href="#" class="nav-item">
+                    <i class="icon">⚙️</i>
+                    <span>Settings</span>
+                </a>
+            </nav>
+        </aside>
+
+        <!-- Main Content -->
+        <main class="main-content">
+            <!-- Top Header -->
+            <header class="dashboard-header">
+                <div class="header-title">Ameen Platform</div>
+                <div class="header-actions">
+                    <button class="icon-btn">⚙️</button>
+                    <button class="icon-btn">🔔</button>
+                    <div class="user-menu">
+                        <img src="~/images/user-avatar.png" alt="User" class="avatar" />
+                        <div class="dropdown">
+                            <span class="user-name">@User.Identity?.Name</span>
+                            <form asp-controller="Account" asp-action="Logout" method="post" class="d-inline">
+                                <button type="submit" class="btn btn-sm btn-danger mt-2">Logout</button>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </header>
+
+            <!-- Dashboard Content -->
+            <div class="dashboard-content">
+                @RenderBody()
+            </div>
+        </main>
+    </div>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

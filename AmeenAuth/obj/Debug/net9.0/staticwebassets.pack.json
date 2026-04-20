@@ -17,6 +17,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\abdua\\Desktop\\Amin\\AmeenAuth\\wwwroot\\images\\ameen-logo.png",
+      "PackagePath": "staticwebassets\\images\\ameen-logo.png"
+    },
+    {
       "Id": "C:\\Users\\abdua\\Desktop\\Amin\\AmeenAuth\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
