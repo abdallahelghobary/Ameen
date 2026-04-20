@@ -9,6 +9,10 @@
       "PackagePath": "staticwebassets\\css\\auth.css"
     },
     {
+      "Id": "C:\\Users\\abdua\\Desktop\\Amin\\AmeenAuth\\wwwroot\\css\\dashboard.css",
+      "PackagePath": "staticwebassets\\css\\dashboard.css"
+    },
+    {
       "Id": "C:\\Users\\abdua\\Desktop\\Amin\\AmeenAuth\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
@@ -19,6 +23,14 @@
     {
       "Id": "C:\\Users\\abdua\\Desktop\\Amin\\AmeenAuth\\wwwroot\\images\\ameen-logo.png",
       "PackagePath": "staticwebassets\\images\\ameen-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\abdua\\Desktop\\Amin\\AmeenAuth\\wwwroot\\images\\ameen-logo.svg",
+      "PackagePath": "staticwebassets\\images\\ameen-logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\abdua\\Desktop\\Amin\\AmeenAuth\\wwwroot\\images\\user-avatar.svg",
+      "PackagePath": "staticwebassets\\images\\user-avatar.svg"
     },
     {
       "Id": "C:\\Users\\abdua\\Desktop\\Amin\\AmeenAuth\\wwwroot\\js\\site.js",

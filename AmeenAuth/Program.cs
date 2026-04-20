@@ -6,6 +6,16 @@ using Microsoft.AspNetCore.Identity;
 
 var builder = WebApplication.CreateBuilder(args);
 
+// Configure port: use environment variable or random available port
+var port = Environment.GetEnvironmentVariable("ASPNETCORE_PORT");
+if (!string.IsNullOrEmpty(port) && int.TryParse(port, out var parsedPort))
+{
+    builder.WebHost.ConfigureKestrel(options =>
+    {
+        options.ListenLocalhost(parsedPort);
+    });
+}
+
 builder.Services.Configure<AuthSeedOptions>(builder.Configuration.GetSection("Auth:Seed"));
 
 builder.Services
@@ -53,3 +63,5 @@ app.MapControllerRoute(
     .WithStaticAssets();
 
 app.Run();
+
+

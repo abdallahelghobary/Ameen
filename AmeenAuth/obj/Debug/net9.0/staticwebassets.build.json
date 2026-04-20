@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "afBaRgx9CzsvM9xMaNE9AEAalSqZh6kbJbdwGE5WQ9I=",
+  "Hash": "kUcgxB/BJpS2GGnUBviX+yEYK5JXdfDl5nKo7YqBkM0=",
   "Source": "AmeenAuth",
   "BasePath": "_content/AmeenAuth",
   "Mode": "Default",
@@ -395,6 +395,27 @@
       "OriginalItemSpec": "C:\\Users\\abdua\\Desktop\\Amin\\AmeenAuth\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
+      "Identity": "C:\\Users\\abdua\\Desktop\\Amin\\AmeenAuth\\obj\\Debug\\net9.0\\compressed\\dsq76fbrpo-dm3puqctcn.gz",
+      "SourceId": "AmeenAuth",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\abdua\\Desktop\\Amin\\AmeenAuth\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/AmeenAuth",
+      "RelativePath": "images/ameen-logo#[.{fingerprint=dm3puqctcn}]?.svg.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\abdua\\Desktop\\Amin\\AmeenAuth\\wwwroot\\images\\ameen-logo.svg",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "p77usruyzz",
+      "Integrity": "+ze26iIzEAa87HMsftdMOsvtfnKhL6R1sLzB8QVP3jA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\abdua\\Desktop\\Amin\\AmeenAuth\\wwwroot\\images\\ameen-logo.svg"
+    },
+    {
       "Identity": "C:\\Users\\abdua\\Desktop\\Amin\\AmeenAuth\\obj\\Debug\\net9.0\\compressed\\dybf3jv5ns-6cfz1n2cew.gz",
       "SourceId": "AmeenAuth",
       "SourceType": "Discovered",
@@ -477,6 +498,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\abdua\\Desktop\\Amin\\AmeenAuth\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\AmeenAuth.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\abdua\\Desktop\\Amin\\AmeenAuth\\obj\\Debug\\net9.0\\compressed\\f3l1sb0gpn-6v0ey016y7.gz",
+      "SourceId": "AmeenAuth",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\abdua\\Desktop\\Amin\\AmeenAuth\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/AmeenAuth",
+      "RelativePath": "images/user-avatar#[.{fingerprint=6v0ey016y7}]?.svg.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\abdua\\Desktop\\Amin\\AmeenAuth\\wwwroot\\images\\user-avatar.svg",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "h9iyn7w7hl",
+      "Integrity": "9UM7lgrxnnppsBzHf96lkFnD/OfV2miS9PA1P16bYEU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\abdua\\Desktop\\Amin\\AmeenAuth\\wwwroot\\images\\user-avatar.svg"
     },
     {
       "Identity": "C:\\Users\\abdua\\Desktop\\Amin\\AmeenAuth\\obj\\Debug\\net9.0\\compressed\\fg53jexiri-h1s4sie4z3.gz",
@@ -1277,6 +1319,27 @@
       "OriginalItemSpec": "C:\\Users\\abdua\\Desktop\\Amin\\AmeenAuth\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
+      "Identity": "C:\\Users\\abdua\\Desktop\\Amin\\AmeenAuth\\obj\\Debug\\net9.0\\compressed\\wzz6yyq954-g5a799oots.gz",
+      "SourceId": "AmeenAuth",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\abdua\\Desktop\\Amin\\AmeenAuth\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/AmeenAuth",
+      "RelativePath": "css/dashboard#[.{fingerprint=g5a799oots}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\abdua\\Desktop\\Amin\\AmeenAuth\\wwwroot\\css\\dashboard.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "sca6x7svyz",
+      "Integrity": "FMll+Xrw+P/x2ac99+iO8Xj5wE62OMZcOmih4WAlPog=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\abdua\\Desktop\\Amin\\AmeenAuth\\wwwroot\\css\\dashboard.css"
+    },
+    {
       "Identity": "C:\\Users\\abdua\\Desktop\\Amin\\AmeenAuth\\obj\\Debug\\net9.0\\compressed\\y0zejdlznx-b7pk76d08c.gz",
       "SourceId": "AmeenAuth",
       "SourceType": "Discovered",
@@ -1445,6 +1508,27 @@
       "OriginalItemSpec": "wwwroot\\css\\auth.css"
     },
     {
+      "Identity": "C:\\Users\\abdua\\Desktop\\Amin\\AmeenAuth\\wwwroot\\css\\dashboard.css",
+      "SourceId": "AmeenAuth",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\abdua\\Desktop\\Amin\\AmeenAuth\\wwwroot\\",
+      "BasePath": "_content/AmeenAuth",
+      "RelativePath": "css/dashboard#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "g5a799oots",
+      "Integrity": "JBzoc1wHP91lpXLOK6hW5/OcylKoc/c1CDWWYNG8sec=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\dashboard.css"
+    },
+    {
       "Identity": "C:\\Users\\abdua\\Desktop\\Amin\\AmeenAuth\\wwwroot\\css\\site.css",
       "SourceId": "AmeenAuth",
       "SourceType": "Discovered",
@@ -1506,6 +1590,48 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\ameen-logo.png"
+    },
+    {
+      "Identity": "C:\\Users\\abdua\\Desktop\\Amin\\AmeenAuth\\wwwroot\\images\\ameen-logo.svg",
+      "SourceId": "AmeenAuth",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\abdua\\Desktop\\Amin\\AmeenAuth\\wwwroot\\",
+      "BasePath": "_content/AmeenAuth",
+      "RelativePath": "images/ameen-logo#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "dm3puqctcn",
+      "Integrity": "a5suSClhn8n6X5Dl6/YEZgRZ50KBJHKDJBXm3E9Wpkw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\ameen-logo.svg"
+    },
+    {
+      "Identity": "C:\\Users\\abdua\\Desktop\\Amin\\AmeenAuth\\wwwroot\\images\\user-avatar.svg",
+      "SourceId": "AmeenAuth",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\abdua\\Desktop\\Amin\\AmeenAuth\\wwwroot\\",
+      "BasePath": "_content/AmeenAuth",
+      "RelativePath": "images/user-avatar#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6v0ey016y7",
+      "Integrity": "HhIMkZkXz//xkwMSrrnskyP1cXshSQnwn3setjOqKcw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\user-avatar.svg"
     },
     {
       "Identity": "C:\\Users\\abdua\\Desktop\\Amin\\AmeenAuth\\wwwroot\\js\\site.js",
@@ -2815,7 +2941,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 19 Apr 2026 23:35:44 GMT"
+          "Value": "Mon, 20 Apr 2026 00:37:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2876,7 +3002,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 19 Apr 2026 23:35:44 GMT"
+          "Value": "Mon, 20 Apr 2026 00:37:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2921,7 +3047,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 19 Apr 2026 23:35:44 GMT"
+          "Value": "Mon, 20 Apr 2026 00:37:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2976,7 +3102,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 19 Apr 2026 23:35:44 GMT"
+          "Value": "Mon, 20 Apr 2026 00:37:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3037,7 +3163,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 19 Apr 2026 23:35:44 GMT"
+          "Value": "Mon, 20 Apr 2026 00:37:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3082,7 +3208,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 19 Apr 2026 23:35:44 GMT"
+          "Value": "Mon, 20 Apr 2026 00:37:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3137,7 +3263,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 19 Apr 2026 23:35:44 GMT"
+          "Value": "Mon, 20 Apr 2026 00:37:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3190,7 +3316,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 19 Apr 2026 23:35:44 GMT"
+          "Value": "Mon, 20 Apr 2026 00:37:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3227,7 +3353,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 19 Apr 2026 23:35:44 GMT"
+          "Value": "Mon, 20 Apr 2026 00:37:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3274,7 +3400,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 19 Apr 2026 23:35:44 GMT"
+          "Value": "Mon, 20 Apr 2026 00:37:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3327,7 +3453,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 19 Apr 2026 23:35:44 GMT"
+          "Value": "Mon, 20 Apr 2026 00:37:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3364,7 +3490,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 19 Apr 2026 23:35:44 GMT"
+          "Value": "Mon, 20 Apr 2026 00:37:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3411,7 +3537,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 19 Apr 2026 23:54:17 GMT"
+          "Value": "Mon, 20 Apr 2026 00:14:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3472,7 +3598,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 19 Apr 2026 23:54:17 GMT"
+          "Value": "Mon, 20 Apr 2026 00:14:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3517,7 +3643,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 19 Apr 2026 23:54:17 GMT"
+          "Value": "Mon, 20 Apr 2026 00:14:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3572,7 +3698,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 19 Apr 2026 23:54:17 GMT"
+          "Value": "Mon, 20 Apr 2026 00:14:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3625,7 +3751,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 19 Apr 2026 23:54:17 GMT"
+          "Value": "Mon, 20 Apr 2026 00:14:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3662,7 +3788,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 19 Apr 2026 23:54:17 GMT"
+          "Value": "Mon, 20 Apr 2026 00:14:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3681,6 +3807,304 @@
         {
           "Name": "integrity",
           "Value": "sha256-7UsjBDrnY1JNHjyEsftqUWiQKdNYZNNnLPHichWRXdo="
+        }
+      ]
+    },
+    {
+      "Route": "css/dashboard.css",
+      "AssetFile": "C:\\Users\\abdua\\Desktop\\Amin\\AmeenAuth\\obj\\Debug\\net9.0\\compressed\\wzz6yyq954-g5a799oots.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000613120785"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1630"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FMll+Xrw+P/x2ac99+iO8Xj5wE62OMZcOmih4WAlPog=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Apr 2026 00:04:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"JBzoc1wHP91lpXLOK6hW5/OcylKoc/c1CDWWYNG8sec=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JBzoc1wHP91lpXLOK6hW5/OcylKoc/c1CDWWYNG8sec="
+        }
+      ]
+    },
+    {
+      "Route": "css/dashboard.css",
+      "AssetFile": "C:\\Users\\abdua\\Desktop\\Amin\\AmeenAuth\\wwwroot\\css\\dashboard.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6957"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JBzoc1wHP91lpXLOK6hW5/OcylKoc/c1CDWWYNG8sec=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Apr 2026 00:04:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JBzoc1wHP91lpXLOK6hW5/OcylKoc/c1CDWWYNG8sec="
+        }
+      ]
+    },
+    {
+      "Route": "css/dashboard.css.gz",
+      "AssetFile": "C:\\Users\\abdua\\Desktop\\Amin\\AmeenAuth\\obj\\Debug\\net9.0\\compressed\\wzz6yyq954-g5a799oots.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1630"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FMll+Xrw+P/x2ac99+iO8Xj5wE62OMZcOmih4WAlPog=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Apr 2026 00:04:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-FMll+Xrw+P/x2ac99+iO8Xj5wE62OMZcOmih4WAlPog="
+        }
+      ]
+    },
+    {
+      "Route": "css/dashboard.g5a799oots.css",
+      "AssetFile": "C:\\Users\\abdua\\Desktop\\Amin\\AmeenAuth\\obj\\Debug\\net9.0\\compressed\\wzz6yyq954-g5a799oots.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000613120785"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1630"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FMll+Xrw+P/x2ac99+iO8Xj5wE62OMZcOmih4WAlPog=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Apr 2026 00:04:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"JBzoc1wHP91lpXLOK6hW5/OcylKoc/c1CDWWYNG8sec=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "g5a799oots"
+        },
+        {
+          "Name": "label",
+          "Value": "css/dashboard.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JBzoc1wHP91lpXLOK6hW5/OcylKoc/c1CDWWYNG8sec="
+        }
+      ]
+    },
+    {
+      "Route": "css/dashboard.g5a799oots.css",
+      "AssetFile": "C:\\Users\\abdua\\Desktop\\Amin\\AmeenAuth\\wwwroot\\css\\dashboard.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6957"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JBzoc1wHP91lpXLOK6hW5/OcylKoc/c1CDWWYNG8sec=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Apr 2026 00:04:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "g5a799oots"
+        },
+        {
+          "Name": "label",
+          "Value": "css/dashboard.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JBzoc1wHP91lpXLOK6hW5/OcylKoc/c1CDWWYNG8sec="
+        }
+      ]
+    },
+    {
+      "Route": "css/dashboard.g5a799oots.css.gz",
+      "AssetFile": "C:\\Users\\abdua\\Desktop\\Amin\\AmeenAuth\\obj\\Debug\\net9.0\\compressed\\wzz6yyq954-g5a799oots.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1630"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FMll+Xrw+P/x2ac99+iO8Xj5wE62OMZcOmih4WAlPog=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Apr 2026 00:04:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "g5a799oots"
+        },
+        {
+          "Name": "label",
+          "Value": "css/dashboard.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-FMll+Xrw+P/x2ac99+iO8Xj5wE62OMZcOmih4WAlPog="
         }
       ]
     },
@@ -4281,6 +4705,167 @@
       ]
     },
     {
+      "Route": "images/ameen-logo.dm3puqctcn.svg",
+      "AssetFile": "C:\\Users\\abdua\\Desktop\\Amin\\AmeenAuth\\obj\\Debug\\net9.0\\compressed\\dsq76fbrpo-dm3puqctcn.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002242152466"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "445"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+ze26iIzEAa87HMsftdMOsvtfnKhL6R1sLzB8QVP3jA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Apr 2026 00:04:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"a5suSClhn8n6X5Dl6/YEZgRZ50KBJHKDJBXm3E9Wpkw=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dm3puqctcn"
+        },
+        {
+          "Name": "label",
+          "Value": "images/ameen-logo.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-a5suSClhn8n6X5Dl6/YEZgRZ50KBJHKDJBXm3E9Wpkw="
+        }
+      ]
+    },
+    {
+      "Route": "images/ameen-logo.dm3puqctcn.svg",
+      "AssetFile": "C:\\Users\\abdua\\Desktop\\Amin\\AmeenAuth\\wwwroot\\images\\ameen-logo.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1337"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"a5suSClhn8n6X5Dl6/YEZgRZ50KBJHKDJBXm3E9Wpkw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Apr 2026 00:04:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dm3puqctcn"
+        },
+        {
+          "Name": "label",
+          "Value": "images/ameen-logo.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-a5suSClhn8n6X5Dl6/YEZgRZ50KBJHKDJBXm3E9Wpkw="
+        }
+      ]
+    },
+    {
+      "Route": "images/ameen-logo.dm3puqctcn.svg.gz",
+      "AssetFile": "C:\\Users\\abdua\\Desktop\\Amin\\AmeenAuth\\obj\\Debug\\net9.0\\compressed\\dsq76fbrpo-dm3puqctcn.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "445"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+ze26iIzEAa87HMsftdMOsvtfnKhL6R1sLzB8QVP3jA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Apr 2026 00:04:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dm3puqctcn"
+        },
+        {
+          "Name": "label",
+          "Value": "images/ameen-logo.svg.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+ze26iIzEAa87HMsftdMOsvtfnKhL6R1sLzB8QVP3jA="
+        }
+      ]
+    },
+    {
       "Route": "images/ameen-logo.opmnujqx0r.png",
       "AssetFile": "C:\\Users\\abdua\\Desktop\\Amin\\AmeenAuth\\wwwroot\\images\\ameen-logo.png",
       "Selectors": [],
@@ -4359,6 +4944,441 @@
         {
           "Name": "integrity",
           "Value": "sha256-vLy1Bqu08YgCnbuCnv9nGrXGzRDK/ex9mu5SSX3ZWVM="
+        }
+      ]
+    },
+    {
+      "Route": "images/ameen-logo.svg",
+      "AssetFile": "C:\\Users\\abdua\\Desktop\\Amin\\AmeenAuth\\obj\\Debug\\net9.0\\compressed\\dsq76fbrpo-dm3puqctcn.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002242152466"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "445"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+ze26iIzEAa87HMsftdMOsvtfnKhL6R1sLzB8QVP3jA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Apr 2026 00:04:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"a5suSClhn8n6X5Dl6/YEZgRZ50KBJHKDJBXm3E9Wpkw=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-a5suSClhn8n6X5Dl6/YEZgRZ50KBJHKDJBXm3E9Wpkw="
+        }
+      ]
+    },
+    {
+      "Route": "images/ameen-logo.svg",
+      "AssetFile": "C:\\Users\\abdua\\Desktop\\Amin\\AmeenAuth\\wwwroot\\images\\ameen-logo.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1337"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"a5suSClhn8n6X5Dl6/YEZgRZ50KBJHKDJBXm3E9Wpkw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Apr 2026 00:04:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-a5suSClhn8n6X5Dl6/YEZgRZ50KBJHKDJBXm3E9Wpkw="
+        }
+      ]
+    },
+    {
+      "Route": "images/ameen-logo.svg.gz",
+      "AssetFile": "C:\\Users\\abdua\\Desktop\\Amin\\AmeenAuth\\obj\\Debug\\net9.0\\compressed\\dsq76fbrpo-dm3puqctcn.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "445"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+ze26iIzEAa87HMsftdMOsvtfnKhL6R1sLzB8QVP3jA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Apr 2026 00:04:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+ze26iIzEAa87HMsftdMOsvtfnKhL6R1sLzB8QVP3jA="
+        }
+      ]
+    },
+    {
+      "Route": "images/user-avatar.6v0ey016y7.svg",
+      "AssetFile": "C:\\Users\\abdua\\Desktop\\Amin\\AmeenAuth\\obj\\Debug\\net9.0\\compressed\\f3l1sb0gpn-6v0ey016y7.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002915451895"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "342"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9UM7lgrxnnppsBzHf96lkFnD/OfV2miS9PA1P16bYEU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Apr 2026 00:04:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"HhIMkZkXz//xkwMSrrnskyP1cXshSQnwn3setjOqKcw=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6v0ey016y7"
+        },
+        {
+          "Name": "label",
+          "Value": "images/user-avatar.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-HhIMkZkXz//xkwMSrrnskyP1cXshSQnwn3setjOqKcw="
+        }
+      ]
+    },
+    {
+      "Route": "images/user-avatar.6v0ey016y7.svg",
+      "AssetFile": "C:\\Users\\abdua\\Desktop\\Amin\\AmeenAuth\\wwwroot\\images\\user-avatar.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "647"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HhIMkZkXz//xkwMSrrnskyP1cXshSQnwn3setjOqKcw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Apr 2026 00:04:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6v0ey016y7"
+        },
+        {
+          "Name": "label",
+          "Value": "images/user-avatar.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-HhIMkZkXz//xkwMSrrnskyP1cXshSQnwn3setjOqKcw="
+        }
+      ]
+    },
+    {
+      "Route": "images/user-avatar.6v0ey016y7.svg.gz",
+      "AssetFile": "C:\\Users\\abdua\\Desktop\\Amin\\AmeenAuth\\obj\\Debug\\net9.0\\compressed\\f3l1sb0gpn-6v0ey016y7.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "342"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9UM7lgrxnnppsBzHf96lkFnD/OfV2miS9PA1P16bYEU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Apr 2026 00:04:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6v0ey016y7"
+        },
+        {
+          "Name": "label",
+          "Value": "images/user-avatar.svg.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9UM7lgrxnnppsBzHf96lkFnD/OfV2miS9PA1P16bYEU="
+        }
+      ]
+    },
+    {
+      "Route": "images/user-avatar.svg",
+      "AssetFile": "C:\\Users\\abdua\\Desktop\\Amin\\AmeenAuth\\obj\\Debug\\net9.0\\compressed\\f3l1sb0gpn-6v0ey016y7.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002915451895"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "342"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9UM7lgrxnnppsBzHf96lkFnD/OfV2miS9PA1P16bYEU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Apr 2026 00:04:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"HhIMkZkXz//xkwMSrrnskyP1cXshSQnwn3setjOqKcw=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-HhIMkZkXz//xkwMSrrnskyP1cXshSQnwn3setjOqKcw="
+        }
+      ]
+    },
+    {
+      "Route": "images/user-avatar.svg",
+      "AssetFile": "C:\\Users\\abdua\\Desktop\\Amin\\AmeenAuth\\wwwroot\\images\\user-avatar.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "647"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HhIMkZkXz//xkwMSrrnskyP1cXshSQnwn3setjOqKcw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Apr 2026 00:04:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-HhIMkZkXz//xkwMSrrnskyP1cXshSQnwn3setjOqKcw="
+        }
+      ]
+    },
+    {
+      "Route": "images/user-avatar.svg.gz",
+      "AssetFile": "C:\\Users\\abdua\\Desktop\\Amin\\AmeenAuth\\obj\\Debug\\net9.0\\compressed\\f3l1sb0gpn-6v0ey016y7.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "342"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9UM7lgrxnnppsBzHf96lkFnD/OfV2miS9PA1P16bYEU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Apr 2026 00:04:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9UM7lgrxnnppsBzHf96lkFnD/OfV2miS9PA1P16bYEU="
         }
       ]
     },
