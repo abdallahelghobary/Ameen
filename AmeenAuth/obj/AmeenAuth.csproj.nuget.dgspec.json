@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\abdua\\Desktop\\Amin\\AmeenAuth\\AmeenAuth.csproj": {}
+    "C:\\Users\\abdua\\Desktop\\Ameen\\AmeenAuth\\AmeenAuth.csproj": {}
   },
   "projects": {
-    "C:\\Users\\abdua\\Desktop\\Amin\\AmeenAuth\\AmeenAuth.csproj": {
+    "C:\\Users\\abdua\\Desktop\\Ameen\\AmeenAuth\\AmeenAuth.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\abdua\\Desktop\\Amin\\AmeenAuth\\AmeenAuth.csproj",
+        "projectUniqueName": "C:\\Users\\abdua\\Desktop\\Ameen\\AmeenAuth\\AmeenAuth.csproj",
         "projectName": "AmeenAuth",
-        "projectPath": "C:\\Users\\abdua\\Desktop\\Amin\\AmeenAuth\\AmeenAuth.csproj",
+        "projectPath": "C:\\Users\\abdua\\Desktop\\Ameen\\AmeenAuth\\AmeenAuth.csproj",
         "packagesPath": "C:\\Users\\abdua\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\abdua\\Desktop\\Amin\\AmeenAuth\\obj\\",
+        "outputPath": "C:\\Users\\abdua\\Desktop\\Ameen\\AmeenAuth\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
