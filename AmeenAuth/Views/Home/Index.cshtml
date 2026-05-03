@@ -123,32 +123,50 @@
         <div class="card-header">
             <span class="card-title">Pie Chart</span>
         </div>
+
         <div class="chart-container">
-            <svg viewBox="0 0 200 200" style="width: 100%; height: 100%; max-width: 150px; margin: 0 auto; display: block;">
-                <!-- Donut Chart -->
-                <defs>
-                    <style>
-                        .slice1 { fill: #e91e63; }
-                        .slice2 { fill: #f06292; }
-                        .slice3 { fill: #f48fb1; }
-                        .slice4 { fill: #f8bbd0; }
-                        .slice5 { fill: #e91e63; opacity: 0.5; }
-                    </style>
-                </defs>
-                
-                <!-- Slices -->
-                <path class="slice1" d="M 100,100 L 100,30 A 70,70 0 0,1 159,51 Z" />
-                <path class="slice2" d="M 100,100 L 159,51 A 70,70 0 0,1 170,170 Z" />
-                <path class="slice3" d="M 100,100 L 170,170 A 70,70 0 0,1 30,170 Z" />
-                <path class="slice4" d="M 100,100 L 30,170 A 70,70 0 0,1 30,30 Z" />
-                <path class="slice5" d="M 100,100 L 30,30 A 70,70 0 0,1 100,30 Z" />
-                
-                <!-- Center circle (white inner circle for donut effect) -->
-                <circle cx="100" cy="100" r="45" fill="#1a1f3a" />
-            </svg>
+            <div class="custom-donut-chart"></div>
         </div>
     </div>
 </div>
+
+<style>
+.custom-donut-chart {
+    width: 180px;
+    height: 180px;
+    margin: 0 auto;
+    border-radius: 50%;
+    background: conic-gradient(
+        #8d0037 0deg 50deg,
+        #e91e63 50deg 135deg,
+        #9e0048 135deg 175deg,
+        #cf3f79 175deg 235deg,
+        #d89bb3 235deg 290deg,
+        #f0d4dc 290deg 360deg
+    );
+    position: relative;
+    box-shadow: 0 0 18px rgba(233, 30, 99, 0.15);
+}
+
+.custom-donut-chart::after {
+    content: "";
+    position: absolute;
+    width: 75px;
+    height: 75px;
+    background: #1a1f3a; 
+    border-radius: 50%;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.chart-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px 0;
+}
+</style>
 
 @section Scripts {
     <script src="~/lib/chart.js/chart.min.js" asp-append-version="true"></script>
